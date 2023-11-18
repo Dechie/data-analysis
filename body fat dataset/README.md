@@ -1,5 +1,5 @@
 # Body Fat Prediction Dataset
-[source: [here](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)]
+[source: [Kaggle](https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset)]
 
 ## About Dataset
 
